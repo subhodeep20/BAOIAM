@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif)
+}
+li {list-style-type: none;
+    font-size: 16pt;
+    }
+    .mail {
+    margin: auto;
+    margin-top: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 400px;
+    background : #D8F1F8;
+    border: 2px soild silver;
+    }
+    .mail h2 {
+    margin-left: 100px;
+    }
+    input {
+    font-size: 20pt;
+    cursor: pointer;
+    }
+    input:focus, textarea:focus{
+    background-color: lightyellow;
+    }
+    input submit {
+    font-size: 12pt;
+    }
+
+    
+    

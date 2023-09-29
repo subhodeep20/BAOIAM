@@ -1,0 +1,63 @@
+
+  /* Style for the question container */
+  .question-container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the answer buttons */
+  .answer-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: #f1f1f1;
+    color: #333;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .answer-button:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Style for the submit button */
+  #submit-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  #submit-button:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  #skip-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  #skip-button:hover {
+    background-color: #fff;
+    color: #333;
+  }
